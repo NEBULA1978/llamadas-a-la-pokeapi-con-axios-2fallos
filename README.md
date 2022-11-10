@@ -13,4 +13,4 @@ Acciones:
 -Consultar Equipo: GET /team
 -Eliminar Pokemon: DELETE /team/pokemons/:id
 Intercambiar el orden de nuestro pokemon: PUT /team
--Sistema de credencial
+-Sistema de credencial# llamadas-a-la-pokeapi-con-axios-2fallos
